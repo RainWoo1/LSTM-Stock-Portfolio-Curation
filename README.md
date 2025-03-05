@@ -1,0 +1,5 @@
+# LSTM-Stock-Portfolio-Curation
+
+### Introduction
+
+As finance enthusiasts, we observed that while quantitative traders already leverage deep learning for short-term trading, long-term institutional investors generally rely on expert financial analysts and direct engagement with company management. They often look at the "broader" picture of the company rather than focusing specifically on price action and short-term market sentiment. However, hiring data teams to perform manual data analysis over long time horizons is very expensive. This project will enhance long-term investing by using deep learning models to automate data analysis and uncover insights that may be overlooked in manual analysis. In order to reach this goal, our model prioritizes fundamental metrics instead of relying on price action and technical indicators to construct a low-risk, high-return portfolio of NYSE mid to large cap stocks. Deep learning is ideal for this approach as it is able to automatically capture complex relationships between valuation factors, improves predictive accuracy, and filters out market noise through taking into account historical trends.
