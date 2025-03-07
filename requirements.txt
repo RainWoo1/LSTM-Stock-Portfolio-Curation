@@ -2,6 +2,7 @@
 numpy
 pandas
 matplotlib
+tqdm
 
 # sklearn
 scikit-learn

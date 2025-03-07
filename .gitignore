@@ -3,3 +3,8 @@
 
 # Python
 .venv/
+
+# Datasets
+data_processing/*.csv
+data_processing/outputs/**/*.db
+data_processing/outputs/**/*.csv
