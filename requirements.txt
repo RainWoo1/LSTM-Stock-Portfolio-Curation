@@ -1,0 +1,13 @@
+# Utils
+numpy
+pandas
+matplotlib
+tqdm
+
+# sklearn
+scikit-learn
+
+# PyTorch
+torch 
+torchvision 
+torchaudio
