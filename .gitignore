@@ -8,3 +8,7 @@
 data_processing/*.csv
 data_processing/outputs/**/*.db
 data_processing/outputs/**/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter_ystore.db
