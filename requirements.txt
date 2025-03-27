@@ -3,6 +3,7 @@ numpy
 pandas
 matplotlib
 tqdm
+seaborn
 
 # sklearn
 scikit-learn
@@ -11,3 +12,4 @@ scikit-learn
 torch 
 torchvision 
 torchaudio
+torchinfo
